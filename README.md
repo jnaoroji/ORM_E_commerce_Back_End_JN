@@ -14,7 +14,7 @@ You will be able to open API GET routes in Insomnia for categories, products, or
 The data for each of these routes is displayed in a formatted JSON.
 You can also test API POST, PUT, and DELETE routes in Insomnia to successfully create, update, and delete data in my database.
 
-Here is a link to the walkthrough video for my application: https://express-note-taker-jn.herokuapp.com/
+Here is a link to the walkthrough video for my application: https://youtu.be/admZSVA4VD8 
 
 ## Credits
 
